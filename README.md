@@ -37,6 +37,7 @@ Language Used:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,4 +71,5 @@ Language Used:
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
