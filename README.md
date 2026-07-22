@@ -33,6 +33,7 @@ Language Used:
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -70,6 +71,7 @@ Language Used:
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
