@@ -15,6 +15,7 @@ Language Used:
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -34,6 +35,7 @@ Language Used:
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -74,4 +76,8 @@ Language Used:
 | [0035-search-insert-position](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
