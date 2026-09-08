@@ -44,6 +44,7 @@ Language Used:
 | [0238-product-of-array-except-self](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0704-binary-search) |
+| [2761-prime-pairs-with-target-sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/2761-prime-pairs-with-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,4 +89,16 @@ Language Used:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/2761-prime-pairs-with-target-sum) |
+## Enumeration
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/2761-prime-pairs-with-target-sum) |
+## Number Theory
+|  |
+| ------- |
+| [2761-prime-pairs-with-target-sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
