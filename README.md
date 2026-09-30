@@ -25,6 +25,7 @@ Language Used:
 | [0049-group-anagrams](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ Language Used:
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/2761-prime-pairs-with-target-sum) |
 ## Enumeration
 |  |
@@ -101,4 +103,8 @@ Language Used:
 |  |
 | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/2761-prime-pairs-with-target-sum) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
