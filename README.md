@@ -41,6 +41,7 @@ Language Used:
 | [0036-valid-sudoku](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -107,4 +108,8 @@ Language Used:
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
