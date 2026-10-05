@@ -47,6 +47,7 @@ Language Used:
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/2761-prime-pairs-with-target-sum) |
@@ -82,6 +83,7 @@ Language Used:
 | [0015-3sum](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Jasleen-codes/DSA-LEETCODE/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
